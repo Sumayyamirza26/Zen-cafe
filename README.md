@@ -31,6 +31,62 @@
 
 ---
 
+## Project Structure
+
+```
+zen-cafe/
+├── public/
+│   ├── favicon.svg
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   ├── swiggy-logo.svg
+│   └── zen-cafe-logo.svg
+├── src/
+│   ├── components/
+│   │   ├── ContactForm.jsx
+│   │   ├── FeaturedDishes.jsx
+│   │   ├── Footer.jsx
+│   │   ├── GalleryGrid.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Lightbox.jsx
+│   │   ├── LocationSection.jsx
+│   │   ├── MenuCard.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── ReservationForm.jsx
+│   │   ├── ReviewCard.jsx
+│   │   ├── SectionHeading.jsx
+│   │   ├── SEO.jsx
+│   │   └── WhatsAppButton.jsx
+│   ├── data/
+│   │   ├── businessInfo.js
+│   │   ├── galleryData.js
+│   │   ├── menuData.js
+│   │   └── reviewsData.js
+│   ├── images/
+│   │   ├── image1.webp
+│   │   ├── image2.webp
+│   │   ├── image3.webp
+│   │   └── logo.jpg
+│   ├── pages/
+│   │   ├── Contact.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── Home.jsx
+│   │   ├── Location.jsx
+│   │   ├── Menu.jsx
+│   │   ├── NotFound.jsx
+│   │   ├── OrderNow.jsx
+│   │   └── Reservations.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+```
+
+---
+
 ## Getting Started
 
 ```bash
