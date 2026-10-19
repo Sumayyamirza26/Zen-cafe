@@ -106,3 +106,7 @@ npm run build
 
 **Sumayya Mirza**
 [GitHub](https://github.com/Sumayyamirza26) · [LinkedIn](#)
+
+## 📄 License
+
+This project was developed as part of a freelance project. The source code and project materials are intended for the client’s use and are not licensed for redistribution or reuse without permission.
